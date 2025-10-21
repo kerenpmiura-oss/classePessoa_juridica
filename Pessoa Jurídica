@@ -1,0 +1,9 @@
+public class PessoaJuridica {
+    private int id;
+    private String razaoSocial;
+    private String cnpj;
+    private String inscricaoEstadual;
+    private String telefone;
+    private String email;
+    private String endereco;
+}
