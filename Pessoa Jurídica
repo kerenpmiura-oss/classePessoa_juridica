@@ -1,3 +1,6 @@
+get remote -v
+
+git commit -m "Adiciona classePessoa_juridica"
 public class PessoaJuridica {
     private int id;
     private String razaoSocial;
